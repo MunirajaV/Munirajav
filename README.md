@@ -6,18 +6,18 @@
 
 - Swift
 - Design Patterns (MVC)
-- iPhone/iPad
+- iPhone
 - Payment GateWay (Stripe,Quickpay)
 - Html, CSS, Bootstrap, sql, Wordpress, Photoshop, Illustrator, Coreldraw
 
-### 🌱 Learning:
+### 🌱 currently Learning:
 
-- Unit Testing
-- UI Testing
+- Unit Test
+- UI Test
 - SwiftUI
 - Design Pattern (MVVMC)
 
-### 📫 How to reach me:
+### 📫 Reach me:
 
 - Gmail - rajavsri@gmail.com
 - Instagram - https://www.instagram.com/mr_insano/
