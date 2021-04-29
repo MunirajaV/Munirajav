@@ -5,9 +5,9 @@
 ### 🚀 Expertise :
 
 - Swift
-- Design Patterns (MVC)
+- Design Patterns (MVC, MVVM, MVVM-C)
 - iPhone
-- Payment GateWay (Stripe,Quickpay)
+- Payment GateWay (Stripe,Quickpay,Paypal)
 - Html, CSS, Bootstrap, sql, Wordpress, Photoshop, Illustrator, Coreldraw
 
 ### 🌱 currently Learning:
@@ -15,7 +15,6 @@
 - Unit Test
 - UI Test
 - SwiftUI
-- Design Pattern (MVVMC)
 
 ### 📫 Reach me:
 
