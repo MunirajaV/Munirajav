@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-🔭 I'm currently working on iOS (Swift). formerly front end developer, designer.
+🔭 I'm currently working on iOS Application Development.
 
 ### 🚀 Expertise :
 
-- Swift
+- Swift, Objective-C, Cocoa Touch
+- Core Location, Map kit, Google maps
+- REST API
 - Design Patterns (MVC, MVVM, MVVM-C)
-- iPhone
+- iPhone, iPad
 - Payment GateWay (Stripe,Quickpay,Paypal)
-- Html, CSS, Bootstrap, sql, Wordpress, Photoshop, Illustrator, Coreldraw
 
 ### 🌱 currently Learning:
 
