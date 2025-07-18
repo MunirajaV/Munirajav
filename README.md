@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I'm currently working on iOS Application Development.
+🔭 I'm currently working as Tech lead iOS Application Development.
 
 ### 🚀 Expertise :
 
-- Swift, Objective-C, Cocoa Touch
+- Swift, Objective-C, SwiftUI Cocoa Touch
 - Core Location, Map kit, Google maps
 - REST API
 - Design Patterns (MVC, MVVM, MVVM-C)
@@ -13,16 +13,12 @@
 
 ### 🌱 currently Learning:
 
-- Unit Test
-- UI Test
-- SwiftUI
+- MERN
 
 ### 📫 Reach me:
 
 - Gmail - rajavsri@gmail.com
-- Instagram - https://www.instagram.com/mr_insano/
-- GitLab - https://gitlab.com/muniraja
-- LinkedIn - https://www.linkedin.com/in/muniraja-velumani-978b5b109/
+- LinkedIn - https://www.linkedin.com/in/muniraja-velumani/
 
 <!--
 **MunirajaV/Munirajav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
